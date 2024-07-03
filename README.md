@@ -19,3 +19,10 @@ Generate sales forecasts for the next 15 days to help in planning and decision-m
 4. Actionable Insights and Recommendations:
 Deliver insights and actionable information to drive strategic decisions.
 Support the supermarket's goals for growth, efficiency, and customer satisfaction.
+
+Learnigs
+By incorporating these elements, the project aims to enhance business operations and decision-making processes, ultimately driving the success of the business.
+
+
+
+![Super store sales dashboard screenshot](https://github.com/vinayakdon/Super-Store-Sales-Dashboard--Power-BI/assets/78019838/ab141332-8a66-4d47-b5aa-6220f1d6972c)
