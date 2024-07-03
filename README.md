@@ -20,7 +20,7 @@ Generate sales forecasts for the next 15 days to help in planning and decision-m
 Deliver insights and actionable information to drive strategic decisions.
 Support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
-Learnigs
+Learnigs:
 By incorporating these elements, the project aims to enhance business operations and decision-making processes, ultimately driving the success of the business.
 
 
